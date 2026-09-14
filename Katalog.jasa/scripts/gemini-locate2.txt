@@ -1,0 +1,97 @@
+
+===== e-kiosk.jpg (1024x768) bright(lum>180) components =====
+  size=152 w=20 h=12 avg=206 box=[883,437]-[902,448]
+  size=52 w=13 h=7 avg=199 box=[810,412]-[822,418]
+  size=26 w=8 h=6 avg=196 box=[799,411]-[806,416]
+  size=21 w=8 h=6 avg=192 box=[812,403]-[819,408]
+
+===== electric-pop.jpg (1024x768) bright(lum>180) components =====
+  size=497 w=27 h=46 avg=214 box=[650,418]-[676,463]
+  size=486 w=15 h=50 avg=206 box=[592,585]-[606,634]
+  size=385 w=42 h=15 avg=199 box=[407,523]-[448,537]
+  size=373 w=52 h=15 avg=200 box=[692,753]-[743,767]
+  size=361 w=21 h=28 avg=221 box=[468,578]-[488,605]
+  size=353 w=40 h=14 avg=203 box=[476,512]-[515,525]
+  size=330 w=14 h=35 avg=196 box=[477,609]-[490,643]
+  size=325 w=23 h=26 avg=200 box=[410,590]-[432,615]
+
+===== event-booth.jpg (828x768) bright(lum>180) components =====
+  size=1276 w=66 h=31 avg=196 box=[450,556]-[515,586]
+  size=1101 w=142 h=27 avg=189 box=[605,397]-[746,423]
+  size=442 w=36 h=36 avg=193 box=[764,707]-[799,742]
+  size=216 w=66 h=8 avg=191 box=[300,421]-[365,428]
+  size=184 w=92 h=5 avg=194 box=[376,425]-[467,429]
+  size=25 w=7 h=5 avg=181 box=[563,411]-[569,415]
+
+===== huruf-timbul.jpg (1024x544) bright(lum>180) components =====
+  size=1452 w=60 h=39 avg=196 box=[755,338]-[814,376]
+  size=1018 w=67 h=31 avg=202 box=[690,298]-[756,328]
+  size=792 w=60 h=55 avg=220 box=[417,457]-[476,511]
+  size=695 w=47 h=28 avg=180 box=[423,316]-[469,343]
+  size=570 w=53 h=34 avg=206 box=[629,303]-[681,336]
+  size=276 w=21 h=20 avg=180 box=[589,384]-[609,403]
+  size=209 w=49 h=44 avg=196 box=[402,344]-[450,387]
+  size=200 w=46 h=27 avg=206 box=[622,406]-[667,432]
+
+===== neon-box.jpg (1024x768) bright(lum>180) components =====
+  size=382 w=44 h=31 avg=234 box=[526,396]-[569,426]
+  size=90 w=12 h=10 avg=183 box=[379,737]-[390,746]
+  size=65 w=10 h=17 avg=232 box=[558,436]-[567,452]
+  size=56 w=9 h=18 avg=230 box=[518,435]-[526,452]
+  size=56 w=7 h=17 avg=222 box=[509,436]-[515,452]
+  size=50 w=9 h=16 avg=232 box=[580,436]-[588,451]
+  size=44 w=9 h=16 avg=234 box=[569,436]-[577,451]
+  size=41 w=10 h=16 avg=226 box=[529,436]-[538,451]
+
+===== papan-nama.jpg (1024x688) bright(lum>180) components =====
+  none
+
+===== rambu.jpg (1024x768) bright(lum>180) components =====
+  size=367 w=81 h=7 avg=194 box=[533,544]-[613,550]
+  size=282 w=11 h=87 avg=186 box=[358,681]-[368,767]
+  size=189 w=73 h=11 avg=195 box=[607,594]-[679,604]
+  size=127 w=59 h=7 avg=197 box=[720,610]-[778,616]
+  size=90 w=47 h=6 avg=195 box=[977,641]-[1023,646]
+  size=34 w=9 h=7 avg=204 box=[523,569]-[531,575]
+  size=33 w=5 h=14 avg=184 box=[359,580]-[363,593]
+  size=32 w=5 h=18 avg=183 box=[360,704]-[364,721]
+
+===== sticker-cutting.jpg (608x768) bright(lum>180) components =====
+  size=2697 w=194 h=103 avg=206 box=[390,537]-[583,639]
+  size=1527 w=149 h=22 avg=190 box=[431,388]-[579,409]
+  size=259 w=41 h=19 avg=206 box=[240,421]-[280,439]
+  size=209 w=34 h=19 avg=205 box=[339,596]-[372,614]
+  size=111 w=23 h=16 avg=183 box=[520,663]-[542,678]
+  size=104 w=36 h=16 avg=207 box=[352,600]-[387,615]
+  size=103 w=21 h=11 avg=182 box=[366,720]-[386,730]
+  size=102 w=27 h=8 avg=195 box=[552,489]-[578,496]
+
+===== sticker-mobil.jpg (1024x768) bright(lum>180) components =====
+  size=1509 w=92 h=44 avg=209 box=[324,463]-[415,506]
+  size=1280 w=41 h=37 avg=203 box=[983,506]-[1023,542]
+  size=422 w=81 h=18 avg=200 box=[943,550]-[1023,567]
+  size=273 w=34 h=31 avg=207 box=[514,622]-[547,652]
+  size=247 w=71 h=11 avg=190 box=[719,505]-[789,515]
+  size=171 w=28 h=14 avg=221 box=[382,486]-[409,499]
+  size=74 w=17 h=18 avg=210 box=[902,555]-[918,572]
+  size=64 w=29 h=33 avg=205 box=[536,684]-[564,716]
+
+===== sticker-sandblast.jpg (1024x768) bright(lum>180) components =====
+  size=998 w=75 h=69 avg=189 box=[592,418]-[666,486]
+  size=355 w=66 h=59 avg=195 box=[598,529]-[663,587]
+  size=182 w=11 h=30 avg=189 box=[505,620]-[515,649]
+  size=140 w=21 h=22 avg=189 box=[809,473]-[829,494]
+  size=85 w=21 h=12 avg=191 box=[730,597]-[750,608]
+  size=74 w=13 h=12 avg=196 box=[414,578]-[426,589]
+  size=58 w=11 h=11 avg=186 box=[670,518]-[680,528]
+  size=50 w=12 h=8 avg=186 box=[706,498]-[717,505]
+
+===== totem-pylon.jpg (1024x747) bright(lum>180) components =====
+  size=70 w=13 h=15 avg=220 box=[467,383]-[479,397]
+  size=60 w=13 h=10 avg=226 box=[485,455]-[497,464]
+  size=59 w=13 h=13 avg=222 box=[479,407]-[491,419]
+  size=58 w=12 h=10 avg=226 box=[458,405]-[469,414]
+  size=54 w=7 h=14 avg=223 box=[481,566]-[487,579]
+  size=51 w=7 h=13 avg=229 box=[490,587]-[496,599]
+  size=49 w=7 h=13 avg=227 box=[498,590]-[504,602]
+  size=48 w=11 h=10 avg=229 box=[449,381]-[459,390]

@@ -1,0 +1,56 @@
+
+===== e-kiosk.jpg (1024x768) =====
+  score=1.003 w=55 h=49 avgD=58.1 box={"left":192,"right":247,"top":298,"bottom":347}
+  score=0.763 w=126 h=88 avgD=13.5 box={"left":575,"right":701,"top":119,"bottom":207}
+  score=0.743 w=101 h=69 avgD=23.6 box={"left":153,"right":254,"top":0,"bottom":69}
+  score=0.712 w=52 h=54 avgD=23 box={"left":47,"right":99,"top":62,"bottom":116}
+  score=0.711 w=124 h=69 avgD=23.8 box={"left":570,"right":694,"top":549,"bottom":618}
+
+===== electric-pop.jpg (1024x768) =====
+  score=0.473 w=102 h=61 avgD=16.3 box={"left":730,"right":832,"top":102,"bottom":163}
+  score=0.332 w=63 h=45 avgD=15.2 box={"left":146,"right":209,"top":280,"bottom":325}
+  score=0.272 w=71 h=90 avgD=11.9 box={"left":721,"right":792,"top":649,"bottom":739}
+  score=0.237 w=30 h=30 avgD=26.4 box={"left":378,"right":408,"top":595,"bottom":625}
+  score=0.224 w=48 h=59 avgD=11.2 box={"left":644,"right":692,"top":418,"bottom":477}
+
+===== neon-box.jpg (1024x768) =====
+  score=1.045 w=68 h=85 avgD=58.9 box={"left":687,"right":755,"top":424,"bottom":509}
+  score=0.62 w=96 h=110 avgD=15.9 box={"left":424,"right":520,"top":0,"bottom":110}
+  score=0.553 w=42 h=65 avgD=64.3 box={"left":537,"right":579,"top":200,"bottom":265}
+  score=0.393 w=49 h=47 avgD=16.8 box={"left":133,"right":182,"top":453,"bottom":500}
+  score=0.378 w=31 h=54 avgD=40 box={"left":605,"right":636,"top":274,"bottom":328}
+
+===== huruf-timbul.jpg (1024x544) =====
+  score=0.892 w=91 h=113 avgD=18 box={"left":340,"right":431,"top":32,"bottom":145}
+  score=0.877 w=67 h=41 avgD=57.4 box={"left":690,"right":757,"top":298,"bottom":339}
+  score=0.864 w=57 h=66 avgD=30.5 box={"left":396,"right":453,"top":347,"bottom":413}
+  score=0.834 w=80 h=67 avgD=22.3 box={"left":231,"right":311,"top":126,"bottom":193}
+  score=0.459 w=61 h=70 avgD=22.5 box={"left":176,"right":237,"top":5,"bottom":75}
+
+===== rambu.jpg (1024x768) =====
+  score=1.021 w=108 h=105 avgD=15.6 box={"left":587,"right":695,"top":188,"bottom":293}
+  score=0.325 w=51 h=70 avgD=14.4 box={"left":724,"right":775,"top":7,"bottom":77}
+  score=0.324 w=69 h=56 avgD=23.9 box={"left":90,"right":159,"top":450,"bottom":506}
+  score=0.312 w=86 h=61 avgD=15.8 box={"left":36,"right":122,"top":4,"bottom":65}
+  score=0.278 w=37 h=30 avgD=30.4 box={"left":691,"right":728,"top":299,"bottom":329}
+
+===== sticker-mobil.jpg (1024x768) =====
+  score=1.432 w=68 h=115 avgD=43.6 box={"left":506,"right":574,"top":606,"bottom":721}
+  score=1.04 w=129 h=129 avgD=16.1 box={"left":295,"right":424,"top":264,"bottom":393}
+  score=0.673 w=66 h=81 avgD=24.9 box={"left":493,"right":559,"top":383,"bottom":464}
+  score=0.588 w=49 h=48 avgD=27.8 box={"left":117,"right":166,"top":269,"bottom":317}
+  score=0.487 w=86 h=73 avgD=17 box={"left":48,"right":134,"top":259,"bottom":332}
+
+===== sticker-sandblast.jpg (1024x768) =====
+  score=1.149 w=102 h=101 avgD=18 box={"left":549,"right":651,"top":490,"bottom":591}
+  score=0.89 w=90 h=105 avgD=18.6 box={"left":702,"right":792,"top":71,"bottom":176}
+  score=0.559 w=91 h=90 avgD=35 box={"left":324,"right":415,"top":80,"bottom":170}
+  score=0.445 w=89 h=82 avgD=15.8 box={"left":326,"right":415,"top":75,"bottom":157}
+  score=0.425 w=92 h=96 avgD=11.3 box={"left":668,"right":760,"top":71,"bottom":167}
+
+===== hero-srawung.jpg (960x640) =====
+  score=0.569 w=72 h=62 avgD=18 box={"left":22,"right":94,"top":578,"bottom":640}
+  score=0.383 w=67 h=76 avgD=11.4 box={"left":774,"right":841,"top":558,"bottom":634}
+  score=0.315 w=37 h=38 avgD=30.4 box={"left":899,"right":936,"top":578,"bottom":616}
+  score=0.258 w=72 h=68 avgD=11.1 box={"left":24,"right":96,"top":1,"bottom":69}
+  score=0.215 w=95 h=50 avgD=12.3 box={"left":673,"right":768,"top":590,"bottom":640}

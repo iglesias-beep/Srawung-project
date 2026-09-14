@@ -1,0 +1,84 @@
+
+===== blog-neon-box.jpg (1280x720) full-image star candidates =====
+  score=0.507 size=745 w=48 h=61 avgD=38.1 box={"left":763,"right":811,"top":388,"bottom":449}
+  score=0.344 size=413 w=34 h=34 avgD=104.7 box={"left":944,"right":978,"top":664,"bottom":698}
+  score=0.285 size=646 w=27 h=46 avgD=33.6 box={"left":596,"right":623,"top":230,"bottom":276}
+  score=0.263 size=494 w=23 h=37 avgD=37.6 box={"left":634,"right":657,"top":283,"bottom":320}
+  score=0.229 size=534 w=30 h=46 avgD=28.6 box={"left":684,"right":714,"top":230,"bottom":276}
+  score=0.190 size=336 w=23 h=37 avgD=44.9 box={"left":566,"right":589,"top":283,"bottom":320}
+  score=0.173 size=505 w=30 h=46 avgD=22.8 box={"left":657,"right":687,"top":230,"bottom":276}
+  score=0.160 size=320 w=21 h=37 avgD=40.1 box={"left":611,"right":632,"top":283,"bottom":320}
+  score=0.148 size=620 w=34 h=35 avgD=11.7 box={"left":374,"right":408,"top":408,"bottom":443}
+  score=0.123 size=466 w=40 h=42 avgD=13.0 box={"left":692,"right":732,"top":630,"bottom":672}
+
+===== blog-papan-nama.jpg (1280x720) full-image star candidates =====
+  score=0.593 size=2041 w=82 h=70 avgD=15.3 box={"left":123,"right":205,"top":650,"bottom":720}
+  score=0.427 size=1974 w=74 h=84 avgD=11.2 box={"left":971,"right":1045,"top":630,"bottom":714}
+  score=0.321 size=1341 w=84 h=78 avgD=12.0 box={"left":124,"right":208,"top":0,"bottom":78}
+  score=0.270 size=612 w=41 h=43 avgD=21.8 box={"left":1111,"right":1152,"top":650,"bottom":693}
+  score=0.244 size=1987 w=106 h=56 avgD=11.1 box={"left":856,"right":962,"top":664,"bottom":720}
+  score=0.209 size=549 w=23 h=30 avgD=21.7 box={"left":582,"right":605,"top":277,"bottom":307}
+  score=0.206 size=929 w=105 h=89 avgD=11.8 box={"left":999,"right":1104,"top":631,"bottom":720}
+  score=0.170 size=552 w=26 h=25 avgD=15.1 box={"left":546,"right":572,"top":341,"bottom":366}
+  score=0.131 size=507 w=30 h=34 avgD=13.4 box={"left":178,"right":208,"top":606,"bottom":640}
+  score=0.128 size=286 w=16 h=23 avgD=28.0 box={"left":618,"right":634,"top":343,"bottom":366}
+
+===== blog-sticker-mobil.jpg (1280x720) full-image star candidates =====
+  score=0.879 size=1881 w=105 h=72 avgD=29.5 box={"left":361,"right":466,"top":0,"bottom":72}
+  score=0.807 size=1972 w=74 h=91 avgD=22.3 box={"left":487,"right":561,"top":275,"bottom":366}
+  score=0.801 size=1324 w=48 h=73 avgD=72.7 box={"left":636,"right":684,"top":524,"bottom":597}
+  score=0.490 size=2372 w=90 h=112 avgD=11.4 box={"left":645,"right":735,"top":0,"bottom":112}
+  score=0.443 size=2077 w=106 h=61 avgD=16.7 box={"left":283,"right":389,"top":511,"bottom":572}
+  score=0.420 size=754 w=58 h=47 avgD=30.5 box={"left":938,"right":996,"top":478,"bottom":525}
+  score=0.403 size=587 w=40 h=34 avgD=36.4 box={"left":357,"right":397,"top":279,"bottom":313}
+  score=0.343 size=411 w=34 h=34 avgD=56.8 box={"left":944,"right":978,"top":664,"bottom":698}
+  score=0.322 size=1025 w=64 h=74 avgD=16.4 box={"left":312,"right":376,"top":272,"bottom":346}
+  score=0.223 size=1108 w=90 h=59 avgD=13.4 box={"left":549,"right":639,"top":156,"bottom":215}
+
+===== sticker-cutting.jpg (608x768) full-image star candidates =====
+  score=0.594 size=713 w=39 h=39 avgD=62.1 box={"left":247,"right":286,"top":530,"bottom":569}
+  score=0.577 size=761 w=55 h=47 avgD=54.5 box={"left":296,"right":351,"top":506,"bottom":553}
+  score=0.562 size=682 w=46 h=47 avgD=63.6 box={"left":350,"right":396,"top":488,"bottom":535}
+  score=0.351 size=559 w=47 h=32 avgD=112.4 box={"left":238,"right":285,"top":421,"bottom":453}
+  score=0.348 size=1375 w=48 h=37 avgD=14.4 box={"left":422,"right":470,"top":290,"bottom":327}
+  score=0.178 size=239 w=24 h=20 avgD=49.9 box={"left":277,"right":301,"top":468,"bottom":488}
+  score=0.150 size=191 w=20 h=18 avgD=53.1 box={"left":302,"right":322,"top":461,"bottom":479}
+  score=0.144 size=264 w=21 h=18 avgD=28.6 box={"left":395,"right":416,"top":300,"bottom":318}
+  score=0.139 size=465 w=45 h=30 avgD=19.5 box={"left":223,"right":268,"top":473,"bottom":503}
+  score=0.117 size=367 w=44 h=26 avgD=24.0 box={"left":284,"right":328,"top":410,"bottom":436}
+
+===== event-booth.jpg (828x768) full-image star candidates =====
+  score=1.166 size=2807 w=126 h=77 avgD=30.0 box={"left":592,"right":718,"top":143,"bottom":220}
+  score=0.509 size=1810 w=104 h=112 avgD=14.1 box={"left":708,"right":812,"top":458,"bottom":570}
+  score=0.380 size=626 w=26 h=37 avgD=37.5 box={"left":224,"right":250,"top":391,"bottom":428}
+  score=0.351 size=489 w=37 h=38 avgD=35.0 box={"left":763,"right":800,"top":706,"bottom":744}
+  score=0.246 size=312 w=26 h=27 avgD=38.6 box={"left":224,"right":250,"top":344,"bottom":371}
+  score=0.232 size=396 w=25 h=24 avgD=28.8 box={"left":650,"right":675,"top":360,"bottom":384}
+  score=0.198 size=512 w=25 h=34 avgD=22.9 box={"left":22,"right":47,"top":558,"bottom":592}
+  score=0.160 size=461 w=25 h=41 avgD=25.1 box={"left":225,"right":250,"top":303,"bottom":344}
+  score=0.153 size=380 w=25 h=31 avgD=22.2 box={"left":223,"right":248,"top":254,"bottom":285}
+  score=0.147 size=628 w=76 h=60 avgD=13.1 box={"left":359,"right":435,"top":170,"bottom":230}
+
+===== totem-pylon.jpg (1024x747) full-image star candidates =====
+  score=0.800 size=1438 w=42 h=68 avgD=39.6 box={"left":549,"right":591,"top":352,"bottom":420}
+  score=0.358 size=574 w=41 h=41 avgD=30.0 box={"left":955,"right":996,"top":678,"bottom":719}
+  score=0.263 size=348 w=27 h=23 avgD=44.7 box={"left":471,"right":498,"top":110,"bottom":133}
+  score=0.208 size=715 w=44 h=72 avgD=21.0 box={"left":405,"right":449,"top":66,"bottom":138}
+  score=0.202 size=425 w=49 h=27 avgD=108.6 box={"left":456,"right":505,"top":576,"bottom":603}
+  score=0.160 size=342 w=40 h=26 avgD=31.3 box={"left":456,"right":496,"top":557,"bottom":583}
+  score=0.157 size=347 w=44 h=26 avgD=34.2 box={"left":442,"right":486,"top":418,"bottom":444}
+  score=0.152 size=299 w=40 h=23 avgD=69.7 box={"left":479,"right":519,"top":449,"bottom":472}
+  score=0.137 size=228 w=15 h=23 avgD=135.8 box={"left":546,"right":561,"top":118,"bottom":141}
+  score=0.125 size=184 w=23 h=17 avgD=41.4 box={"left":441,"right":464,"top":354,"bottom":371}
+
+===== papan-nama.jpg (1024x688) full-image star candidates =====
+  score=0.404 size=1826 w=69 h=80 avgD=11.6 box={"left":827,"right":896,"top":594,"bottom":674}
+  score=0.265 size=1174 w=78 h=71 avgD=11.4 box={"left":24,"right":102,"top":4,"bottom":75}
+  score=0.238 size=556 w=40 h=40 avgD=20.6 box={"left":958,"right":998,"top":619,"bottom":659}
+  score=0.129 size=491 w=22 h=30 avgD=15.6 box={"left":457,"right":479,"top":264,"bottom":294}
+  score=0.123 size=492 w=24 h=25 avgD=12.3 box={"left":423,"right":447,"top":325,"bottom":350}
+  score=0.102 size=258 w=16 h=21 avgD=22.7 box={"left":491,"right":507,"top":328,"bottom":349}
+  score=0.102 size=464 w=27 h=32 avgD=11.7 box={"left":75,"right":102,"top":577,"bottom":609}
+  score=0.081 size=346 w=24 h=25 avgD=11.5 box={"left":877,"right":901,"top":426,"bottom":451}
+  score=0.075 size=219 w=14 h=21 avgD=22.3 box={"left":552,"right":566,"top":329,"bottom":350}
+  score=0.072 size=213 w=24 h=16 avgD=22.0 box={"left":577,"right":601,"top":274,"bottom":290}

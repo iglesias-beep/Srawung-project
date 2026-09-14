@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-label="Kalkulasi Kebutuhan Bata">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f766e"/>
+      <stop offset="1" stop-color="#115e59"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+  <g opacity="0.12">
+    <rect x="60" y="60" width="120" height="120" fill="#fff" transform="rotate(20 120 120)"/>
+    <circle cx="660" cy="120" r="80" fill="#fff"/>
+    <rect x="120" y="320" width="140" height="140" fill="#fff" transform="rotate(30 190 390)"/>
+  </g>
+  <text x="400" y="225" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" fill="#ffffff" text-anchor="middle">Kalkulasi Kebutuhan Bata</text>
+  <text x="400" y="270" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="rgba(255,255,255,0.85)" text-anchor="middle">Kalkulasi Kebutuhan Bangunan</text>
+</svg>

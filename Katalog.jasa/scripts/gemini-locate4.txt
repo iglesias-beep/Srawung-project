@@ -1,0 +1,174 @@
+
+===== e-kiosk.jpg (1024x768) scan x[504-1024] y[408-768] =====
+  size=16775 w=226 h=360 avgDiff=37.8 distRight=77 distBottom=0 box={"left":721,"right":947,"top":408,"bottom":768}
+  size=5995 w=149 h=230 avgDiff=-19.1 distRight=315 distBottom=130 box={"left":560,"right":709,"top":408,"bottom":638}
+  size=4958 w=196 h=132 avgDiff=-17.0 distRight=324 distBottom=0 box={"left":504,"right":700,"top":636,"bottom":768}
+  size=3998 w=80 h=300 avgDiff=18.7 distRight=415 distBottom=60 box={"left":529,"right":609,"top":408,"bottom":708}
+  size=1386 w=68 h=48 avgDiff=17.1 distRight=0 distBottom=190 box={"left":956,"right":1024,"top":530,"bottom":578}
+  size=798 w=22 h=67 avgDiff=-16.4 distRight=498 distBottom=284 box={"left":504,"right":526,"top":417,"bottom":484}
+  size=790 w=67 h=38 avgDiff=17.5 distRight=325 distBottom=111 box={"left":632,"right":699,"top":619,"bottom":657}
+  size=771 w=24 h=96 avgDiff=-16.2 distRight=122 distBottom=100 box={"left":878,"right":902,"top":572,"bottom":668}
+  size=569 w=66 h=14 avgDiff=16.0 distRight=454 distBottom=11 box={"left":504,"right":570,"top":743,"bottom":757}
+  size=508 w=13 h=49 avgDiff=-17.0 distRight=98 distBottom=310 box={"left":913,"right":926,"top":409,"bottom":458}
+  size=443 w=41 h=39 avgDiff=23.5 distRight=61 distBottom=321 box={"left":922,"right":963,"top":408,"bottom":447}
+  size=368 w=29 h=33 avgDiff=19.7 distRight=424 distBottom=249 box={"left":571,"right":600,"top":486,"bottom":519}
+  size=266 w=49 h=14 avgDiff=19.0 distRight=21 distBottom=0 box={"left":954,"right":1003,"top":754,"bottom":768}
+  size=240 w=8 h=49 avgDiff=-16.7 distRight=316 distBottom=37 box={"left":700,"right":708,"top":682,"bottom":731}
+
+===== electric-pop.jpg (1024x768) scan x[504-1024] y[408-768] =====
+  size=28081 w=296 h=253 avgDiff=-17.0 distRight=224 distBottom=107 box={"left":504,"right":800,"top":408,"bottom":661}
+  size=6994 w=283 h=133 avgDiff=16.1 distRight=237 distBottom=0 box={"left":504,"right":787,"top":635,"bottom":768}
+  size=1508 w=86 h=64 avgDiff=-17.9 distRight=434 distBottom=259 box={"left":504,"right":590,"top":445,"bottom":509}
+  size=819 w=14 h=81 avgDiff=-21.6 distRight=10 distBottom=279 box={"left":1000,"right":1014,"top":408,"bottom":489}
+  size=786 w=12 h=99 avgDiff=-31.2 distRight=67 distBottom=261 box={"left":945,"right":957,"top":408,"bottom":507}
+  size=577 w=39 h=24 avgDiff=-17.2 distRight=435 distBottom=247 box={"left":550,"right":589,"top":497,"bottom":521}
+  size=565 w=41 h=24 avgDiff=16.9 distRight=442 distBottom=324 box={"left":541,"right":582,"top":420,"bottom":444}
+  size=506 w=10 h=84 avgDiff=17.0 distRight=215 distBottom=276 box={"left":799,"right":809,"top":408,"bottom":492}
+  size=485 w=10 h=58 avgDiff=24.3 distRight=0 distBottom=302 box={"left":1014,"right":1024,"top":408,"bottom":466}
+  size=380 w=10 h=56 avgDiff=16.8 distRight=80 distBottom=304 box={"left":934,"right":944,"top":408,"bottom":464}
+  size=284 w=10 h=58 avgDiff=18.2 distRight=24 distBottom=302 box={"left":990,"right":1000,"top":408,"bottom":466}
+  size=281 w=10 h=44 avgDiff=18.3 distRight=57 distBottom=316 box={"left":957,"right":967,"top":408,"bottom":452}
+  size=279 w=10 h=43 avgDiff=-16.1 distRight=16 distBottom=213 box={"left":998,"right":1008,"top":512,"bottom":555}
+  size=242 w=19 h=33 avgDiff=59.7 distRight=423 distBottom=281 box={"left":582,"right":601,"top":454,"bottom":487}
+
+===== event-booth.jpg (828x768) scan x[308-828] y[408-768] =====
+  size=32429 w=481 h=256 avgDiff=36.5 distRight=39 distBottom=104 box={"left":308,"right":789,"top":408,"bottom":664}
+  size=2163 w=78 h=360 avgDiff=-17.7 distRight=0 distBottom=0 box={"left":750,"right":828,"top":408,"bottom":768}
+  size=1674 w=63 h=173 avgDiff=-17.4 distRight=457 distBottom=107 box={"left":308,"right":371,"top":488,"bottom":661}
+  size=1290 w=58 h=103 avgDiff=19.4 distRight=32 distBottom=206 box={"left":738,"right":796,"top":459,"bottom":562}
+  size=702 w=37 h=37 avgDiff=35.0 distRight=28 distBottom=25 box={"left":763,"right":800,"top":706,"bottom":743}
+  size=234 w=21 h=22 avgDiff=-18.0 distRight=65 distBottom=302 box={"left":742,"right":763,"top":444,"bottom":466}
+  size=212 w=13 h=57 avgDiff=18.3 distRight=32 distBottom=303 box={"left":783,"right":796,"top":408,"bottom":465}
+  size=181 w=17 h=24 avgDiff=-18.8 distRight=503 distBottom=251 box={"left":308,"right":325,"top":493,"bottom":517}
+  size=169 w=12 h=30 avgDiff=-16.5 distRight=4 distBottom=1 box={"left":812,"right":824,"top":737,"bottom":767}
+  size=125 w=53 h=14 avgDiff=-16.0 distRight=305 distBottom=138 box={"left":470,"right":523,"top":616,"bottom":630}
+  size=102 w=26 h=7 avgDiff=-19.3 distRight=55 distBottom=236 box={"left":747,"right":773,"top":525,"bottom":532}
+  size=92 w=14 h=13 avgDiff=-16.2 distRight=479 distBottom=347 box={"left":335,"right":349,"top":408,"bottom":421}
+  size=72 w=12 h=11 avgDiff=-17.0 distRight=4 distBottom=128 box={"left":812,"right":824,"top":629,"bottom":640}
+  size=68 w=15 h=14 avgDiff=-18.4 distRight=29 distBottom=27 box={"left":784,"right":799,"top":727,"bottom":741}
+
+===== huruf-timbul.jpg (1024x544) scan x[504-1024] y[184-544] =====
+  size=50328 w=520 h=360 avgDiff=27.7 distRight=0 distBottom=0 box={"left":504,"right":1024,"top":184,"bottom":544}
+  size=2212 w=69 h=57 avgDiff=26.7 distRight=352 distBottom=80 box={"left":603,"right":672,"top":407,"bottom":464}
+  size=2210 w=70 h=62 avgDiff=-24.7 distRight=433 distBottom=283 box={"left":521,"right":591,"top":199,"bottom":261}
+  size=1680 w=45 h=55 avgDiff=23.8 distRight=267 distBottom=255 box={"left":712,"right":757,"top":234,"bottom":289}
+  size=1037 w=66 h=33 avgDiff=-16.4 distRight=268 distBottom=214 box={"left":690,"right":756,"top":297,"bottom":330}
+  size=504 w=37 h=24 avgDiff=-22.3 distRight=438 distBottom=336 box={"left":549,"right":586,"top":184,"bottom":208}
+  size=409 w=51 h=24 avgDiff=17.5 distRight=463 distBottom=164 box={"left":510,"right":561,"top":356,"bottom":380}
+  size=261 w=30 h=19 avgDiff=20.6 distRight=287 distBottom=181 box={"left":707,"right":737,"top":344,"bottom":363}
+  size=208 w=43 h=8 avgDiff=-25.4 distRight=159 distBottom=352 box={"left":822,"right":865,"top":184,"bottom":192}
+  size=165 w=9 h=25 avgDiff=-19.7 distRight=511 distBottom=191 box={"left":504,"right":513,"top":328,"bottom":353}
+  size=92 w=12 h=15 avgDiff=-36.4 distRight=325 distBottom=189 box={"left":687,"right":699,"top":340,"bottom":355}
+  size=84 w=17 h=8 avgDiff=-31.9 distRight=355 distBottom=213 box={"left":652,"right":669,"top":323,"bottom":331}
+  size=81 w=14 h=11 avgDiff=20.5 distRight=360 distBottom=180 box={"left":650,"right":664,"top":353,"bottom":364}
+  size=48 w=8 h=12 avgDiff=17.8 distRight=280 distBottom=64 box={"left":736,"right":744,"top":468,"bottom":480}
+
+===== neon-box.jpg (1024x768) scan x[504-1024] y[408-768] =====
+  size=2792 w=84 h=58 avgDiff=-16.5 distRight=436 distBottom=302 box={"left":504,"right":588,"top":408,"bottom":466}
+  size=2576 w=94 h=87 avgDiff=58.9 distRight=269 distBottom=257 box={"left":661,"right":755,"top":424,"bottom":511}
+  size=1283 w=23 h=267 avgDiff=-19.2 distRight=325 distBottom=0 box={"left":676,"right":699,"top":501,"bottom":768}
+  size=1249 w=88 h=73 avgDiff=-18.4 distRight=199 distBottom=287 box={"left":737,"right":825,"top":408,"bottom":481}
+  size=762 w=16 h=65 avgDiff=16.5 distRight=344 distBottom=88 box={"left":664,"right":680,"top":615,"bottom":680}
+  size=353 w=17 h=30 avgDiff=17.2 distRight=343 distBottom=173 box={"left":664,"right":681,"top":565,"bottom":595}
+  size=353 w=14 h=51 avgDiff=18.4 distRight=346 distBottom=26 box={"left":664,"right":678,"top":691,"bottom":742}
+  size=312 w=34 h=21 avgDiff=18.5 distRight=434 distBottom=6 box={"left":556,"right":590,"top":741,"bottom":762}
+  size=276 w=155 h=2 avgDiff=31.8 distRight=365 distBottom=284 box={"left":504,"right":659,"top":482,"bottom":484}
+  size=270 w=74 h=23 avgDiff=-29.9 distRight=201 distBottom=194 box={"left":749,"right":823,"top":551,"bottom":574}
+  size=221 w=12 h=22 avgDiff=20.7 distRight=239 distBottom=338 box={"left":773,"right":785,"top":408,"bottom":430}
+  size=200 w=50 h=47 avgDiff=23.4 distRight=286 distBottom=119 box={"left":688,"right":738,"top":602,"bottom":649}
+  size=195 w=56 h=25 avgDiff=-17.2 distRight=264 distBottom=172 box={"left":704,"right":760,"top":571,"bottom":596}
+  size=189 w=20 h=19 avgDiff=16.7 distRight=232 distBottom=315 box={"left":772,"right":792,"top":434,"bottom":453}
+
+===== papan-nama.jpg (1024x688) scan x[504-1024] y[328-688] =====
+  size=17556 w=520 h=360 avgDiff=-18.7 distRight=0 distBottom=0 box={"left":504,"right":1024,"top":328,"bottom":688}
+  size=14686 w=108 h=320 avgDiff=-17.7 distRight=205 distBottom=40 box={"left":711,"right":819,"top":328,"bottom":648}
+  size=5466 w=142 h=53 avgDiff=-21.2 distRight=378 distBottom=307 box={"left":504,"right":646,"top":328,"bottom":381}
+  size=3383 w=63 h=112 avgDiff=17.0 distRight=457 distBottom=193 box={"left":504,"right":567,"top":383,"bottom":495}
+  size=2324 w=36 h=299 avgDiff=17.5 distRight=181 distBottom=61 box={"left":807,"right":843,"top":328,"bottom":627}
+  size=1523 w=126 h=28 avgDiff=-16.4 distRight=394 distBottom=157 box={"left":504,"right":630,"top":503,"bottom":531}
+  size=1328 w=6 h=302 avgDiff=19.7 distRight=222 distBottom=58 box={"left":796,"right":802,"top":328,"bottom":630}
+  size=743 w=23 h=69 avgDiff=17.7 distRight=330 distBottom=190 box={"left":671,"right":694,"top":429,"bottom":498}
+  size=526 w=40 h=35 avgDiff=16.3 distRight=128 distBottom=22 box={"left":856,"right":896,"top":631,"bottom":666}
+  size=500 w=9 h=98 avgDiff=-18.3 distRight=109 distBottom=262 box={"left":906,"right":915,"top":328,"bottom":426}
+  size=449 w=35 h=19 avgDiff=-18.5 distRight=122 distBottom=195 box={"left":867,"right":902,"top":474,"bottom":493}
+  size=438 w=12 h=69 avgDiff=20.8 distRight=73 distBottom=17 box={"left":939,"right":951,"top":602,"bottom":671}
+  size=405 w=36 h=22 avgDiff=17.0 distRight=153 distBottom=16 box={"left":835,"right":871,"top":650,"bottom":672}
+  size=397 w=9 h=63 avgDiff=-18.6 distRight=119 distBottom=28 box={"left":896,"right":905,"top":597,"bottom":660}
+
+===== rambu.jpg (1024x768) scan x[504-1024] y[408-768] =====
+  size=3555 w=338 h=50 avgDiff=17.0 distRight=182 distBottom=156 box={"left":504,"right":842,"top":562,"bottom":612}
+  size=3504 w=300 h=32 avgDiff=-16.3 distRight=0 distBottom=119 box={"left":724,"right":1024,"top":617,"bottom":649}
+  size=3178 w=520 h=90 avgDiff=28.1 distRight=0 distBottom=79 box={"left":504,"right":1024,"top":599,"bottom":689}
+  size=3092 w=328 h=98 avgDiff=19.8 distRight=192 distBottom=0 box={"left":504,"right":832,"top":670,"bottom":768}
+  size=3063 w=362 h=44 avgDiff=16.9 distRight=142 distBottom=136 box={"left":520,"right":882,"top":588,"bottom":632}
+  size=2042 w=129 h=45 avgDiff=16.6 distRight=391 distBottom=192 box={"left":504,"right":633,"top":531,"bottom":576}
+  size=451 w=23 h=34 avgDiff=-20.9 distRight=452 distBottom=232 box={"left":549,"right":572,"top":502,"bottom":536}
+  size=372 w=51 h=32 avgDiff=-16.3 distRight=378 distBottom=294 box={"left":595,"right":646,"top":442,"bottom":474}
+  size=310 w=21 h=31 avgDiff=-19.9 distRight=499 distBottom=220 box={"left":504,"right":525,"top":517,"bottom":548}
+  size=290 w=46 h=24 avgDiff=-17.1 distRight=378 distBottom=241 box={"left":600,"right":646,"top":503,"bottom":527}
+  size=288 w=24 h=31 avgDiff=-17.1 distRight=496 distBottom=299 box={"left":504,"right":528,"top":438,"bottom":469}
+  size=280 w=39 h=18 avgDiff=19.9 distRight=225 distBottom=278 box={"left":760,"right":799,"top":472,"bottom":490}
+  size=275 w=29 h=28 avgDiff=25.9 distRight=309 distBottom=311 box={"left":686,"right":715,"top":429,"bottom":457}
+  size=264 w=32 h=17 avgDiff=21.3 distRight=343 distBottom=343 box={"left":649,"right":681,"top":408,"bottom":425}
+
+===== sticker-cutting.jpg (608x768) scan x[88-608] y[408-768] =====
+  size=61941 w=520 h=360 avgDiff=16.3 distRight=0 distBottom=0 box={"left":88,"right":608,"top":408,"bottom":768}
+  size=4706 w=256 h=142 avgDiff=-22.7 distRight=246 distBottom=0 box={"left":106,"right":362,"top":626,"bottom":768}
+  size=1667 w=187 h=114 avgDiff=16.8 distRight=18 distBottom=10 box={"left":403,"right":590,"top":644,"bottom":758}
+  size=1622 w=57 h=52 avgDiff=-16.6 distRight=257 distBottom=215 box={"left":294,"right":351,"top":501,"bottom":553}
+  size=1294 w=165 h=80 avgDiff=17.6 distRight=301 distBottom=72 box={"left":142,"right":307,"top":616,"bottom":696}
+  size=1180 w=68 h=41 avgDiff=-16.8 distRight=67 distBottom=0 box={"left":473,"right":541,"top":727,"bottom":768}
+  size=663 w=81 h=40 avgDiff=16.6 distRight=221 distBottom=32 box={"left":306,"right":387,"top":696,"bottom":736}
+  size=208 w=28 h=15 avgDiff=16.5 distRight=492 distBottom=168 box={"left":88,"right":116,"top":585,"bottom":600}
+  size=186 w=34 h=12 avgDiff=17.7 distRight=468 distBottom=157 box={"left":106,"right":140,"top":599,"bottom":611}
+  size=139 w=60 h=30 avgDiff=-17.8 distRight=378 distBottom=93 box={"left":170,"right":230,"top":645,"bottom":675}
+  size=123 w=19 h=14 avgDiff=-16.3 distRight=44 distBottom=20 box={"left":545,"right":564,"top":734,"bottom":748}
+  size=115 w=19 h=10 avgDiff=17.0 distRight=200 distBottom=24 box={"left":389,"right":408,"top":734,"bottom":744}
+  size=112 w=28 h=7 avgDiff=-38.8 distRight=492 distBottom=353 box={"left":88,"right":116,"top":408,"bottom":415}
+  size=108 w=15 h=13 avgDiff=29.5 distRight=505 distBottom=190 box={"left":88,"right":103,"top":565,"bottom":578}
+
+===== sticker-mobil.jpg (1024x768) scan x[504-1024] y[408-768] =====
+  size=35594 w=520 h=256 avgDiff=17.6 distRight=0 distBottom=104 box={"left":504,"right":1024,"top":408,"bottom":664}
+  size=7851 w=80 h=170 avgDiff=-17.4 distRight=440 distBottom=0 box={"left":504,"right":584,"top":598,"bottom":768}
+  size=5893 w=203 h=75 avgDiff=17.0 distRight=107 distBottom=252 box={"left":714,"right":917,"top":441,"bottom":516}
+  size=2445 w=298 h=43 avgDiff=-16.4 distRight=108 distBottom=294 box={"left":618,"right":916,"top":431,"bottom":474}
+  size=1134 w=46 h=36 avgDiff=16.2 distRight=310 distBottom=311 box={"left":668,"right":714,"top":421,"bottom":457}
+  size=764 w=127 h=17 avgDiff=-22.5 distRight=291 distBottom=234 box={"left":606,"right":733,"top":517,"bottom":534}
+  size=704 w=97 h=36 avgDiff=21.0 distRight=72 distBottom=324 box={"left":855,"right":952,"top":408,"bottom":444}
+  size=448 w=64 h=33 avgDiff=-16.6 distRight=446 distBottom=170 box={"left":514,"right":578,"top":565,"bottom":598}
+  size=359 w=86 h=9 avgDiff=16.0 distRight=327 distBottom=251 box={"left":611,"right":697,"top":508,"bottom":517}
+  size=326 w=39 h=16 avgDiff=16.6 distRight=312 distBottom=286 box={"left":673,"right":712,"top":466,"bottom":482}
+  size=292 w=52 h=9 avgDiff=-16.9 distRight=176 distBottom=142 box={"left":796,"right":848,"top":617,"bottom":626}
+  size=215 w=31 h=31 avgDiff=19.5 distRight=87 distBottom=216 box={"left":906,"right":937,"top":521,"bottom":552}
+  size=193 w=34 h=29 avgDiff=-16.1 distRight=482 distBottom=194 box={"left":508,"right":542,"top":545,"bottom":574}
+  size=172 w=34 h=14 avgDiff=-18.5 distRight=83 distBottom=267 box={"left":907,"right":941,"top":487,"bottom":501}
+
+===== sticker-sandblast.jpg (1024x768) scan x[504-1024] y[408-768] =====
+  size=32458 w=520 h=360 avgDiff=17.6 distRight=0 distBottom=0 box={"left":504,"right":1024,"top":408,"bottom":768}
+  size=10439 w=192 h=253 avgDiff=-87.6 distRight=328 distBottom=107 box={"left":504,"right":696,"top":408,"bottom":661}
+  size=1363 w=77 h=62 avgDiff=17.7 distRight=353 distBottom=101 box={"left":594,"right":671,"top":605,"bottom":667}
+  size=1139 w=7 h=327 avgDiff=-16.3 distRight=149 distBottom=33 box={"left":868,"right":875,"top":408,"bottom":735}
+  size=1024 w=74 h=72 avgDiff=-22.2 distRight=283 distBottom=218 box={"left":667,"right":741,"top":478,"bottom":550}
+  size=717 w=69 h=28 avgDiff=21.6 distRight=252 distBottom=147 box={"left":703,"right":772,"top":593,"bottom":621}
+  size=536 w=84 h=77 avgDiff=-23.0 distRight=251 distBottom=214 box={"left":689,"right":773,"top":477,"bottom":554}
+  size=453 w=51 h=47 avgDiff=-59.4 distRight=404 distBottom=313 box={"left":569,"right":620,"top":408,"bottom":455}
+  size=177 w=22 h=32 avgDiff=-32.5 distRight=355 distBottom=267 box={"left":647,"right":669,"top":469,"bottom":501}
+  size=162 w=46 h=42 avgDiff=-22.9 distRight=366 distBottom=130 box={"left":612,"right":658,"top":596,"bottom":638}
+  size=140 w=27 h=25 avgDiff=-33.9 distRight=242 distBottom=298 box={"left":755,"right":782,"top":445,"bottom":470}
+  size=119 w=17 h=48 avgDiff=-18.5 distRight=454 distBottom=302 box={"left":553,"right":570,"top":418,"bottom":466}
+  size=119 w=19 h=13 avgDiff=17.0 distRight=297 distBottom=175 box={"left":708,"right":727,"top":580,"bottom":593}
+  size=109 w=32 h=28 avgDiff=-16.3 distRight=412 distBottom=102 box={"left":580,"right":612,"top":638,"bottom":666}
+
+===== totem-pylon.jpg (1024x747) scan x[504-1024] y[387-747] =====
+  size=14518 w=142 h=353 avgDiff=-19.1 distRight=378 distBottom=7 box={"left":504,"right":646,"top":387,"bottom":740}
+  size=1508 w=54 h=37 avgDiff=-33.4 distRight=423 distBottom=323 box={"left":547,"right":601,"top":387,"bottom":424}
+  size=1391 w=45 h=59 avgDiff=-24.0 distRight=434 distBottom=118 box={"left":545,"right":590,"top":570,"bottom":629}
+  size=999 w=22 h=71 avgDiff=-16.7 distRight=498 distBottom=265 box={"left":504,"right":526,"top":411,"bottom":482}
+  size=508 w=32 h=31 avgDiff=-17.4 distRight=484 distBottom=141 box={"left":508,"right":540,"top":575,"bottom":606}
+  size=421 w=41 h=41 avgDiff=30.0 distRight=28 distBottom=28 box={"left":955,"right":996,"top":678,"bottom":719}
+  size=45 w=4 h=16 avgDiff=-17.8 distRight=516 distBottom=159 box={"left":504,"right":508,"top":572,"bottom":588}
+  size=19 w=8 h=6 avgDiff=-16.7 distRight=507 distBottom=65 box={"left":509,"right":517,"top":676,"bottom":682}
+  size=18 w=2 h=14 avgDiff=-20.0 distRight=518 distBottom=143 box={"left":504,"right":506,"top":590,"bottom":604}
+  size=15 w=11 h=3 avgDiff=-20.0 distRight=487 distBottom=61 box={"left":526,"right":537,"top":683,"bottom":686}
+  size=13 w=8 h=4 avgDiff=-17.4 distRight=448 distBottom=106 box={"left":568,"right":576,"top":637,"bottom":641}
+  size=12 w=9 h=3 avgDiff=-16.3 distRight=446 distBottom=45 box={"left":569,"right":578,"top":699,"bottom":702}

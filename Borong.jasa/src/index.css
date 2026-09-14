@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #FFFFFF;
+  color: #134E4A;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Playfair Display', serif;
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-brand-navy text-white px-6 py-3 rounded-lg font-semibold transition-all duration-300 hover:bg-brand-slate hover:shadow-lg hover:shadow-brand-navy/30 active:scale-95;
+  }
+  .btn-secondary {
+    @apply border border-brand-navy text-brand-navy px-6 py-3 rounded-lg font-semibold transition-all duration-300 hover:bg-brand-navy hover:text-white;
+  }
+  .btn-danger {
+    @apply bg-red-500 text-white px-6 py-3 rounded-lg font-medium transition-all duration-300 hover:bg-red-600 active:scale-95;
+  }
+  .input-field {
+    @apply w-full px-4 py-3 border border-brand-slate/20 rounded-lg focus:outline-none focus:ring-2 focus:ring-brand-navy/20 focus:border-brand-navy transition-all duration-300 bg-white;
+  }
+  .card {
+    @apply bg-white rounded-2xl shadow-sm border border-brand-cream overflow-hidden transition-all duration-300 hover:shadow-lg hover:shadow-brand-navy/5;
+  }
+}
+
+@keyframes marquee {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+.animate-marquee {
+  animation: marquee 30s linear infinite;
+}

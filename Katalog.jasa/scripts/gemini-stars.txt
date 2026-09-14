@@ -1,0 +1,88 @@
+
+===== e-kiosk.jpg (1024x768) star candidates =====
+  score=0.395 size=1007 w=71 h=52 avgD=51.8 box={"left":892,"right":963,"top":395,"bottom":447}
+  score=0.349 size=2466 w=124 h=69 avgD=23.8 box={"left":570,"right":694,"top":549,"bottom":618}
+  score=0.117 size=236 w=20 h=17 avgD=48.0 box={"left":807,"right":827,"top":522,"bottom":539}
+  score=0.101 size=757 w=79 h=57 avgD=23.3 box={"left":547,"right":626,"top":413,"bottom":470}
+  score=0.085 size=244 w=22 h=14 avgD=55.1 box={"left":882,"right":904,"top":436,"bottom":450}
+  score=0.080 size=1017 w=69 h=48 avgD=11.0 box={"left":627,"right":696,"top":441,"bottom":489}
+
+===== electric-pop.jpg (1024x768) star candidates =====
+  score=0.188 size=1278 w=71 h=90 avgD=11.9 box={"left":721,"right":792,"top":649,"bottom":739}
+  score=0.097 size=1090 w=48 h=59 avgD=11.2 box={"left":644,"right":692,"top":418,"bottom":477}
+  score=0.081 size=756 w=65 h=35 avgD=19.5 box={"left":601,"right":666,"top":545,"bottom":580}
+  score=0.058 size=479 w=36 h=21 avgD=18.7 box={"left":677,"right":713,"top":479,"bottom":500}
+  score=0.050 size=656 w=51 h=32 avgD=18.5 box={"left":441,"right":492,"top":578,"bottom":610}
+  score=0.043 size=566 w=40 h=22 avgD=17.2 box={"left":549,"right":589,"top":499,"bottom":521}
+
+===== event-booth.jpg (828x768) star candidates =====
+  score=0.788 size=2503 w=103 h=99 avgD=39.8 box={"left":420,"right":523,"top":348,"bottom":447}
+  score=0.362 size=1810 w=104 h=112 avgD=14.1 box={"left":708,"right":812,"top":458,"bottom":570}
+  score=0.348 size=489 w=37 h=38 avgD=35.0 box={"left":763,"right":800,"top":706,"bottom":744}
+  score=0.167 size=1278 w=45 h=71 avgD=44.7 box={"left":299,"right":344,"top":348,"bottom":419}
+  score=0.110 size=396 w=25 h=24 avgD=27.6 box={"left":650,"right":675,"top":360,"bottom":384}
+  score=0.088 size=715 w=54 h=53 avgD=11.4 box={"left":712,"right":766,"top":348,"bottom":401}
+
+===== huruf-timbul.jpg (1024x544) star candidates =====
+  score=0.501 size=1579 w=67 h=41 avgD=57.4 box={"left":690,"right":757,"top":298,"bottom":339}
+  score=0.241 size=1396 w=65 h=95 avgD=16.5 box={"left":801,"right":866,"top":254,"bottom":349}
+  score=0.231 size=1609 w=73 h=59 avgD=14.9 box={"left":601,"right":674,"top":406,"bottom":465}
+  score=0.214 size=1338 w=50 h=58 avgD=15.7 box={"left":709,"right":759,"top":233,"bottom":291}
+  score=0.201 size=1588 w=50 h=66 avgD=58.3 box={"left":404,"right":454,"top":214,"bottom":280}
+  score=0.101 size=893 w=33 h=47 avgD=58.2 box={"left":463,"right":496,"top":124,"bottom":171}
+
+===== neon-box.jpg (1024x768) star candidates =====
+  score=0.526 size=1444 w=68 h=85 avgD=58.9 box={"left":687,"right":755,"top":424,"bottom":509}
+  score=0.078 size=461 w=45 h=32 avgD=81.8 box={"left":525,"right":570,"top":368,"bottom":400}
+  score=0.067 size=608 w=32 h=42 avgD=12.6 box={"left":772,"right":804,"top":388,"bottom":430}
+  score=0.062 size=463 w=45 h=31 avgD=30.1 box={"left":525,"right":570,"top":396,"bottom":427}
+  score=0.048 size=366 w=56 h=49 avgD=11.1 box={"left":688,"right":744,"top":601,"bottom":650}
+  score=0.047 size=385 w=30 h=53 avgD=12.7 box={"left":810,"right":840,"top":665,"bottom":718}
+
+===== papan-nama.jpg (1024x688) star candidates =====
+  score=0.337 size=1826 w=69 h=80 avgD=11.6 box={"left":827,"right":896,"top":594,"bottom":674}
+  score=0.234 size=556 w=40 h=40 avgD=20.6 box={"left":958,"right":998,"top":619,"bottom":659}
+  score=0.056 size=346 w=24 h=25 avgD=11.5 box={"left":877,"right":901,"top":426,"bottom":451}
+  score=0.052 size=448 w=22 h=26 avgD=50.2 box={"left":457,"right":479,"top":268,"bottom":294}
+  score=0.049 size=406 w=37 h=31 avgD=24.6 box={"left":553,"right":590,"top":268,"bottom":299}
+  score=0.034 size=285 w=31 h=19 avgD=11.8 box={"left":874,"right":905,"top":456,"bottom":475}
+
+===== rambu.jpg (1024x768) star candidates =====
+  score=0.083 size=456 w=34 h=39 avgD=28.1 box={"left":590,"right":624,"top":387,"bottom":426}
+  score=0.049 size=465 w=42 h=36 avgD=14.0 box={"left":581,"right":623,"top":465,"bottom":501}
+  score=0.042 size=306 w=32 h=30 avgD=14.6 box={"left":686,"right":718,"top":428,"bottom":458}
+  score=0.036 size=192 w=23 h=22 avgD=14.0 box={"left":812,"right":835,"top":512,"bottom":534}
+  score=0.032 size=243 w=24 h=17 avgD=21.4 box={"left":588,"right":612,"top":449,"bottom":466}
+  score=0.030 size=270 w=30 h=23 avgD=15.6 box={"left":573,"right":603,"top":508,"bottom":531}
+
+===== sticker-cutting.jpg (608x768) star candidates =====
+  score=0.340 size=682 w=46 h=47 avgD=63.6 box={"left":350,"right":396,"top":488,"bottom":535}
+  score=0.331 size=761 w=55 h=47 avgD=54.5 box={"left":296,"right":351,"top":506,"bottom":553}
+  score=0.312 size=713 w=39 h=39 avgD=62.1 box={"left":247,"right":286,"top":530,"bottom":569}
+  score=0.150 size=559 w=47 h=32 avgD=112.4 box={"left":238,"right":285,"top":421,"bottom":453}
+  score=0.088 size=239 w=24 h=20 avgD=49.9 box={"left":277,"right":301,"top":468,"bottom":488}
+  score=0.076 size=191 w=20 h=18 avgD=53.1 box={"left":302,"right":322,"top":461,"bottom":479}
+
+===== sticker-mobil.jpg (1024x768) star candidates =====
+  score=0.573 size=2701 w=68 h=115 avgD=43.6 box={"left":506,"right":574,"top":606,"bottom":721}
+  score=0.358 size=1237 w=88 h=73 avgD=19.2 box={"left":936,"right":1024,"top":550,"bottom":623}
+  score=0.178 size=1475 w=66 h=81 avgD=24.9 box={"left":493,"right":559,"top":383,"bottom":464}
+  score=0.175 size=1064 w=42 h=40 avgD=11.2 box={"left":982,"right":1024,"top":505,"bottom":545}
+  score=0.148 size=1603 w=81 h=98 avgD=24.2 box={"left":404,"right":485,"top":431,"bottom":529}
+  score=0.121 size=604 w=59 h=55 avgD=31.8 box={"left":579,"right":638,"top":352,"bottom":407}
+
+===== sticker-sandblast.jpg (1024x768) star candidates =====
+  score=0.492 size=3075 w=102 h=101 avgD=18.0 box={"left":549,"right":651,"top":490,"bottom":591}
+  score=0.091 size=784 w=88 h=86 avgD=12.4 box={"left":579,"right":667,"top":497,"bottom":583}
+  score=0.079 size=457 w=74 h=67 avgD=16.9 box={"left":670,"right":744,"top":462,"bottom":529}
+  score=0.075 size=384 w=59 h=55 avgD=18.2 box={"left":685,"right":744,"top":486,"bottom":541}
+  score=0.066 size=279 w=43 h=42 avgD=20.9 box={"left":697,"right":740,"top":499,"bottom":541}
+  score=0.064 size=200 w=26 h=26 avgD=28.4 box={"left":640,"right":666,"top":631,"bottom":657}
+
+===== totem-pylon.jpg (1024x747) star candidates =====
+  score=0.352 size=574 w=41 h=41 avgD=30.0 box={"left":955,"right":996,"top":678,"bottom":719}
+  score=0.240 size=1438 w=42 h=68 avgD=39.6 box={"left":549,"right":591,"top":352,"bottom":420}
+  score=0.062 size=425 w=49 h=27 avgD=108.6 box={"left":456,"right":505,"top":576,"bottom":603}
+  score=0.055 size=182 w=20 h=27 avgD=46.8 box={"left":567,"right":587,"top":600,"bottom":627}
+  score=0.047 size=342 w=40 h=26 avgD=31.3 box={"left":456,"right":496,"top":557,"bottom":583}
+  score=0.042 size=299 w=40 h=23 avgD=69.7 box={"left":479,"right":519,"top":449,"bottom":472}

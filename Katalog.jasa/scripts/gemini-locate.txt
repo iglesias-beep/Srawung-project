@@ -1,0 +1,22 @@
+
+===== e-kiosk.jpg (1024x768) scan region x[624-1024] y[468-768] =====
+
+===== electric-pop.jpg (1024x768) scan region x[624-1024] y[468-768] =====
+
+===== event-booth.jpg (828x768) scan region x[428-828] y[468-768] =====
+
+===== huruf-timbul.jpg (1024x544) scan region x[624-1024] y[244-544] =====
+
+===== neon-box.jpg (1024x768) scan region x[624-1024] y[468-768] =====
+
+===== papan-nama.jpg (1024x688) scan region x[624-1024] y[388-688] =====
+
+===== rambu.jpg (1024x768) scan region x[624-1024] y[468-768] =====
+
+===== sticker-cutting.jpg (608x768) scan region x[208-608] y[468-768] =====
+
+===== sticker-mobil.jpg (1024x768) scan region x[624-1024] y[468-768] =====
+
+===== sticker-sandblast.jpg (1024x768) scan region x[624-1024] y[468-768] =====
+
+===== totem-pylon.jpg (1024x747) scan region x[624-1024] y[447-747] =====
