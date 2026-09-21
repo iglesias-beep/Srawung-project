@@ -62,10 +62,16 @@ export default function Home() {
     <>
       {/* Hero */}
       <section className="hero">
+        <div className="hero-bg" />
+        <div className="hero-decor hero-decor-1" />
+        <div className="hero-decor hero-decor-2" />
+        <div className="hero-decor hero-decor-3" />
+        <div className="hero-decor hero-decor-4" />
+
         <div className="container">
-          <div>
+          <div className="hero-content">
             <h1>
-              Temukan Barang <span className="hl">Custom</span> Sesuai Kebutuhan Anda
+              Solusi <span className="hl">Signage</span> &amp; Branding Custom Terpercaya
             </h1>
             <p>
               Kertajaya melayani papan nama, neon box, rambu, huruf timbul, totem &amp;
@@ -73,16 +79,47 @@ export default function Home() {
               perbaikan, dan support 24/7.
             </p>
             <div className="hero-actions">
-              <Link className="btn btn-primary btn-lg" to="/toko">Lihat Katalog Produk</Link>
+              <Link className="btn btn-primary btn-lg" to="/toko">Lihat Katalog Produk →</Link>
               <Link className="btn btn-outline-light btn-lg" to="/kontak">Hubungi Kami</Link>
             </div>
-            <div className="hero-stats">
-              <div><strong>12+</strong><span>Jenis Produk Custom</span></div>
-              <div><strong>34</strong><span>Provinsi di Indonesia</span></div>
-              <div><strong>100%</strong><span>Garansi Perbaikan</span></div>
+            <div className="hero-trust">
+              <div className="trust-item">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+                  <path d="M12 3l7 3v5c0 4.4-3 8.4-7 10-4-1.6-7-5.6-7-10V6l7-3z" />
+                  <path d="M8.5 12l2.4 2.4 4.6-4.8" />
+                </svg>
+                <span>Garansi Perbaikan</span>
+              </div>
+              <div className="trust-item">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+                  <path d="M1 6h14v9H1zM15 9h4l3 3v3h-7z" />
+                  <circle cx="5.5" cy="17.5" r="1.8" />
+                  <circle cx="17.5" cy="17.5" r="1.8" />
+                </svg>
+                <span>Gratis Pengiriman</span>
+              </div>
+              <div className="trust-item">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+                  <path d="M4 13a8 8 0 0 1 16 0" />
+                  <path d="M3 13h3v6H3zM18 13h3v6h-3z" />
+                  <path d="M21 17v1.5A2.5 2.5 0 0 1 18.5 21H15" />
+                </svg>
+                <span>Support 24/7</span>
+              </div>
             </div>
           </div>
-          <img src="/assets/images/hero-srawung.jpg" alt="Contoh papan nama custom Kertajaya" />
+        </div>
+
+        <div className="hero-testi-float">
+          <div className="stars">★★★★★</div>
+          <p>"{TESTIMONI[0].teks}"</p>
+          <footer>
+            <div className="avatar">{TESTIMONI[0].inisial}</div>
+            <div>
+              <strong>{TESTIMONI[0].nama}</strong>
+              <small>{TESTIMONI[0].peran}</small>
+            </div>
+          </footer>
         </div>
       </section>
 
