@@ -395,8 +395,8 @@ button { font-family: inherit; }
   transition: transform 0.18s ease, box-shadow 0.18s ease;
 }
 .product-card:hover { transform: translateY(-5px); box-shadow: var(--shadow-lg); }
-.product-card .thumb { position: relative; aspect-ratio: 4 / 3; background: #fff; display: grid; place-items: center; overflow: hidden; border-bottom: 1px solid var(--border); }
-.product-card .thumb img { width: 100%; height: 100%; object-fit: cover; object-position: center center; }
+.product-card .thumb { position: relative; background: #fff; display: block; overflow: hidden; border-bottom: 1px solid var(--border); }
+.product-card .thumb img { width: 100%; height: auto; object-fit: cover; object-position: center center; display: block; }
 .stock-badge {
   position: absolute;
   top: 0.6rem; left: 0.6rem;
