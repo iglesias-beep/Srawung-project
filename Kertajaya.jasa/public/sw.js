@@ -1,4 +1,4 @@
-const CACHE = "kertajaya-v2";
+const CACHE = "kertajaya-v3";
 const CORE = [
   "/",
   "/index.html",

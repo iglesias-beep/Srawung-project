@@ -76,7 +76,7 @@ export default function Article() {
             </div>
 
             <div className="article-hero">
-              <img src={article.image} alt={article.title} />
+              <img src={`${article.image}?v=2`} alt={article.title} />
             </div>
 
             <nav className="toc">
@@ -120,7 +120,7 @@ export default function Article() {
                 {lainnya.map((a) => (
                   <article className="blog-card" key={a.slug}>
                     <div className="thumb">
-                      <img src={a.image} alt={a.title} loading="lazy" />
+                      <img src={`${a.image}?v=2`} alt={a.title} loading="lazy" />
                     </div>
                     <div className="blog-body">
                       <div className="blog-meta">

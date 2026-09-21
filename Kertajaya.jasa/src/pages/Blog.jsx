@@ -22,7 +22,7 @@ export default function Blog() {
             {articles.map((a) => (
               <article className="blog-card" key={a.slug}>
                 <div className="thumb">
-                  <img src={a.image} alt={a.title} loading="lazy" />
+                  <img src={`${a.image}?v=2`} alt={a.title} loading="lazy" />
                 </div>
                 <div className="blog-body">
                   <div className="blog-meta">
